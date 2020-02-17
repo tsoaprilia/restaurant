@@ -8,13 +8,8 @@
 </head>
 <style>
     body{
-   background-image: url(op.jpg);
-   background-size: cover;
-   background-position: 0%;
-   background-clip: border-box;
-   background-position-x: 0%;
-   background-attachment: scroll;
-    background-repeat: no-repeat;
+   background-image: url(6t.jpg);
+  
 }
 </style>
 <body>
@@ -124,5 +119,15 @@ while($data = mysqli_fetch_array($sql)){
 </table>
 </div>
 </div>
+
+<nav>
+<div id="satu">
+<h3 align="center" style="color:silver">
+<u style="font-family: sans-serif;">
+<li><a href="alhamdulillah.php" > LANJUT </a></li>
+</u>
+</h3>
+</div>
+</nav>
 </body>
 </html>

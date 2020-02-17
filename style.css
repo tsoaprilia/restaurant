@@ -27,6 +27,7 @@ button:hover{
 }
 img.uu{
     width: 40%;
+    height:70px;
     border-radius: 20%;
 }
 
@@ -77,16 +78,7 @@ img.uu{
     background-image:url(m.jpg);
     position:relative;
 }
-body{
-   background-image: url(op.jpg);
-   background-size: cover;
-   background-position: 0%;
-   background-clip: border-box;
-   background-position-x: 0%;
-   background-attachment: scroll;
-    background-repeat: no-repeat;
 
-}
 h1{
     color:rgb(230, 170, 92);
     font-family: monospace;
@@ -99,7 +91,7 @@ h2{
     font-size: 40px;
 }
 #yeeu{
-    background-color: rgb(197, 146, 127);
+    background-color: rgb(194, 141, 122);
     border-radius: 8px;
     box-shadow: 7px 9px 14px rgba(0, 0, 0, 0.65);
     height: 90%;
@@ -108,4 +100,104 @@ h2{
 }
 #yeuy{
    width : 100%;
+}
+#satu{
+    width: 15%;
+    height: 40px;
+    margin: 0px 700px;
+    background:rgb(146, 154, 158)
+
+}
+body{
+    background-image: url(jh.jpg);
+    background-position: top;
+}
+#layout{
+    background-color:rgb(146, 135, 135);
+    width: 100%;
+    margin:auto;
+    text-align:left;
+    padding:2px;
+}
+#lay{
+    background-color:rgb(100, 87, 87);
+    width: 99%;
+    margin:auto;
+    text-align:left;
+    padding:15px;
+}
+#out{
+    background-color:rgb(187, 178, 178);
+    width: 89%;
+    margin:auto;
+    text-align:left;
+    padding:100px;
+}
+img{
+    width:300px;
+    height:300px;
+}
+#ug{
+    background-color:rgb(163, 152, 152);
+    width: 89%;
+    margin:auto;
+    text-align:left;
+    padding:100px;
+}
+#no{
+    background-color:rgb(163, 152, 152);
+    width: 89%;
+    margin:auto;
+    text-align:left;
+    padding:200px;
+}
+#cardd{
+    background-color: #38615b;
+    border-radius: 8px;
+    box-shadow: 7px 9px 14px rgba(0, 0, 0, 0.65);
+    height: 800px;
+    margin : 13rem auto 8.1rem auto;
+    width: 730px;
+}
+
+#cardd-content {
+    padding: 12px 44px;
+}
+#cardd-title {
+    font-family: "Raleway Thin", sans-serif;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+}
+.hiaa{
+    text-align: center;
+    margin : 22px 0 12px;
+}
+img.uuu{
+    width: 45%;
+    border-radius: 25%;
+}
+
+.www{
+    padding:20px;
+    margin: 1px 60px;
+}
+.ww{
+    padding:20 px ;
+    margin: 0px 80px;
+}
+.w{
+    padding:20 px ;
+    margin: 0px 80px;
+}
+#oi{
+    margin: 0px 150px;
+}
+#layoutt{
+    background-color:rgb(146, 135, 135);
+    width: 100%;
+    margin:auto;
+    text-align:left;
+    padding:50px;
 }
