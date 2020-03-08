@@ -1,0 +1,55 @@
+body{
+    background-image: url(huee.jpg);
+    
+}
+
+#layout{
+    background-color:rgb(88, 77, 77);
+    width: 100%;
+    height: 200px;
+    margin:70px 0px;
+    text-align: center;
+    text-align:center;
+    padding:4px;
+}
+#lay{
+    background-color:rgb(54, 46, 46);
+    width: 99%;
+    margin:0px 0px;
+    text-align:left;
+    padding:20px;
+}
+
+h1{
+    color:rgb(192, 117, 20);
+    font-family: monospace;
+    margin:15px 600px;
+    font-size: 50px;
+}
+#admin{
+    background-color:rgb(126, 118, 118);
+    width :90%;
+    margin-left: 20px;
+    text-align:center;
+    padding : 18px;
+
+}
+h2{
+    color: rgb(15, 19, 7);
+    font-family: monospace;
+    margin: auto;
+    font-size: 45px;
+}
+#costumer{
+    background-color:rgb(126, 118, 118);
+    width :85%;
+    text-align:center;
+    padding : 18px;  
+}
+#ya{
+    background-color:rgb(88, 77, 77);
+    width: 98%;
+    margin:auto;
+    text-align:center;
+    padding:25px; 
+}

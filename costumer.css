@@ -1,0 +1,60 @@
+body{
+    background-image: url(rrr.jpg);
+    background-size: cover;
+}
+#layout{
+    background-color:rgb(88, 77, 77);
+    width: 100%;
+    margin:70px 0px;
+    text-align:center;
+    padding:4px;
+}
+#lay{
+    background-color:rgb(54, 46, 46);
+    width: 98%;
+    margin:0px 0px;
+    text-align:left;
+    padding:20px;
+}
+
+h1{
+    color:rgb(192, 117, 20);
+    font-family: monospace;
+    margin:15px 600px;
+    font-size: 60px;
+}
+#admin{
+    background-color:rgb(126, 118, 118);
+    width :65%;
+    margin-left: 20px;
+    text-align:center;
+    padding : 18px;
+
+}
+h2{
+    color: rgb(15, 19, 7);
+    font-family: monospace;
+    margin: auto;
+    font-size: 45px;
+}
+#costumer{
+    background-color:rgb(126, 118, 118);
+    width :85%;
+    margin-right: 90px;
+    text-align:center;
+    padding : 18px;  
+}
+#ya{
+    background-color:rgb(88, 77, 77);
+    width: 98,5%;
+    margin:auto;
+    text-align:center;
+    padding:25px; 
+}
+#uu{
+    background-color:rgb(88, 77, 77);
+    width: 99%;
+    margin:auto;
+    text-align:center;
+    padding:10px;  
+}

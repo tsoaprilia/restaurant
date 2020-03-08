@@ -1,5 +1,4 @@
 
-
 input[type=text]{
     width : 97%;
     padding : 4px 10px;
@@ -127,7 +126,7 @@ body{
     padding:15px;
 }
 #out{
-    background-color:rgb(187, 178, 178);
+    background-color:rgb(167, 154, 154);
     width: 89%;
     margin:auto;
     text-align:left;
@@ -145,8 +144,8 @@ img{
     padding:100px;
 }
 #no{
-    background-color:rgb(163, 152, 152);
-    width: 89%;
+    background-color:rgb(114, 100, 100);
+    width: 78%;
     margin:auto;
     text-align:left;
     padding:200px;
@@ -200,4 +199,5 @@ img.uuu{
     margin:auto;
     text-align:left;
     padding:50px;
+
 }

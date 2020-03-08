@@ -1,0 +1,21 @@
+#moh{
+    background-color: rgb(160, 120, 105);
+    border-radius: 6px;
+    box-shadow: 50px 50px 70px rgba(0, 0, 0, 0.65);
+    height: 500px;
+    margin : 7rem auto 6.1rem auto;
+    width: 1030px;
+}
+body{
+    background-image: url(zip.jpg);
+    background-size: cover;
+}
+#ba{
+    background-color: rgb(92, 77, 72);
+    border-radius: 8px;
+    box-shadow: 50px 50px 70px rgba(0, 0, 0, 0.65);
+    height: 530px;
+    margin : 0rem auto 4.1rem auto;
+    width: 100%;  
+    background: rgb(70, 89, 107)
+}

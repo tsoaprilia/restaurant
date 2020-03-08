@@ -1,0 +1,47 @@
+
+#box{
+    display: inline-block;
+   
+    width: 190px;
+    border : 2px solid #ddd;
+    margin:10px;
+    margin-left:12px;
+    margin-right:1
+   
+}
+ #box img{
+    width:100%;
+    height:250px;
+}
+
+#box :hover{
+    border: 3px solid #000;
+}
+#box div.deskripsii{
+  padding : 15px;
+  text-align:center;
+  background-color: lightsalmon;
+  background-color: lightcoral;
+
+}
+#mooo{
+    background-color:rgb(163, 152, 152);
+    width: 92%;
+    margin:auto;
+    text-align:left;
+    padding:70px;
+}
+#untuk{
+    background-color:rgb(219, 196, 157);
+    width: 100%;
+    margin:auto;
+    text-align:left;
+    padding:0.1px;
+}
+#selesai{
+    background-color:rgb(163, 152, 152);
+    width: 92%;
+    margin:auto;
+    text-align:left;
+    padding:70px;
+}

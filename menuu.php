@@ -11,27 +11,6 @@
    background-image: url(6t.jpg);
   
 }
-#satuuu{
-    width: 25%;
-    height: 60px;
-    margin: 0px 700px;
-    background:rgb(166, 164, 168);
-
-
-}
-
-#mohon{
-  width: 50%;
-    height: 50px;
-    margin: 0px 470px;
-    background:rgb(103, 116, 122);
-}
-#ma{
-  width: 100%;
-    height: 100px;
-    margin: 0px 0px;
-    background:rgb(61, 73, 78);
-}
 </style>
 <body>
     <div id="layout">
@@ -53,7 +32,7 @@
 <th bgcolor="aqua">Harga</th>
 </tr>
 <?php
-include "konesi.php";
+include "kkoneksi.php";
 $query ="SELECT * FROM star";
 $sql = mysqli_query($connect,$query);
 while($data = mysqli_fetch_array ($sql)){
@@ -141,21 +120,14 @@ while($data = mysqli_fetch_array($sql)){
 </div>
 </div>
 
-
-<div id="mohon">
-<h3>Untuk Memesan Anda Harus Menghafalkan " ID " makanan beserta minumannya yang ingin anda pesan</h2>
-</div>
-
-<div id="ma">
 <nav>
-<div id="satuuu">
+<div id="satu">
 <h3 align="center" style="color:silver">
 <u style="font-family: sans-serif;">
-<li><a href="alhamdulillah.php" > LANJUT </a></li>
+<li><a href="tunjuk.php">MASUK</a></li>
 </u>
 </h3>
 </div>
 </nav>
-</div>
 </body>
 </html>
