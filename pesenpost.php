@@ -14,7 +14,7 @@ $query = "INSERT INTO pesan (nama,alamat,id_STARTERS, id_MAINCOURSES, id_DESSERT
           $result = mysqli_query($connect, $query);
           $num = mysqli_affected_rows($connect);
           if($num>0){
-              echo "ANDA BERHASIL MEMESAN MAKANAN                        Mohon Maaf untuk Bill nya masih error   ";
+              echo "ANDA BERHASIL MEMESAN MAKANAN                        Mohon Maaf untuk Bill nya masih diproses   ";
              
               
           }else{
